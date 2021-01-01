@@ -1,0 +1,52 @@
+#body{
+	background-color: #42e9f5
+}
+
+.para{
+	font-size: 50px 
+	
+}
+
+.ingredients{
+	font-size: 30px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	list-style-type: square;
+}
+
+.Description{
+	font-size: 40px;
+	padding-bottom: 50px; 
+	padding-top: 50px;
+	padding-left: 50px;
+	list-style-type: upper-roman;
+}
+.para{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#heading{
+	font-size: 5em;
+	text-decoration: underline;
+}
+.para{
+	border-width: 4px;
+	border-style: dotted;
+}
+#About{
+	font-style: italic;
+	font-style: normal;
+	color: red;
+}
+#quote{
+  background: #ff0000;
+  text-decoration: underline;
+  font-style: italic;
+  color: black;
+}
+.footer{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-style: bold;
+	font-size: 30px;
+}
