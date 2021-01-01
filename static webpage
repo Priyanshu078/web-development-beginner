@@ -1,0 +1,54 @@
+<html>
+  <head>
+    <title>This is a practice webpage</title>
+  </head>
+  <body>
+    <h1>
+      Portfolio Website
+    </h1>
+    <h2>This is a practice webpage</h2>
+    <p>
+      HEllo I am an engineering student. I am in 3rd year of my college.<br> Now there is a time to show up, that what I have and what I want from this course.
+    </p>
+    <h3>Programming languages</h3>
+    <ol>
+      <li>C language</li>
+      <li>C++ language</li>
+      <li>Python</li>
+      <li>JAVA</li>
+    </ol>
+    <h3>Programming languages I want to learn</h3>
+    <ul>
+      <li>Java Script</li>
+      <li>I want to learn about databases</li>
+      <li>I want to learn full android development</li>
+      <li>I want to learn java script frameworks like React , Node JS , and many more to come.</li>
+    </ul>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logolynx.com%2Ftopic%2Fhtml5&psig=AOvVaw1Dh6-xmiMDfIKl26jPTzyq&ust=1608638496911000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjow8yD3-0CFQAAAAAdAAAAABAo" alt = "This is a logo of HTML5"><br>
+    <h2>Login Form</h2>
+    <label for = "data">
+    <input type = "radio" id = "data" value = "original data">You are 18+</input><br>
+    </label>
+  <h3>What languages you love to program with</h3>
+  <label for = "data">
+    <input type = "checkbox" id = "data" value = "original data">JAVA</input><br>
+    </label
+  <br>
+<label for = "data">
+    <input type = "checkbox" id = "data" value = "original data">Python</input><br>
+    </label>
+<label for = "data">
+    <input type = "checkbox" id = "data" value = "original data">C++</input><br>
+    </label>
+<label for = "data">
+    <input type = "checkbox" id = "data" value = "original data">Java Script</input><br>
+    </label>
+<br>
+    <input type="text" placeholder="Email ID" required></input>
+    <br>
+    <input type="text" placeholder="Password" required></input>
+    <br>
+    <Button type="submit">Login</Button>
+      
+  </body>
+</html>
